@@ -1,8 +1,8 @@
+![um-canonicalize: passed](https://img.shields.io/badge/um--canonicalize-passed-brightgreen.svg "um-canonicalize: passed")
+
 # Old English (ang)
 
 Contains Old English paradigms including: nouns, adjectives, and verbs.
-
-![um-canonicalize: passed](https://img.shields.io/badge/um--canonicalize-passed-brightgreen.svg "um-canonicalize: passed")
 
 ## Data
 
